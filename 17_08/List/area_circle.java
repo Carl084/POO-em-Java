@@ -7,6 +7,6 @@ public class area_circle {
         double pi     = 3.14159;
         double result = pi*(radius*radius);
 
-        System.out.printf("Area of a circle: %.2f", result);
+        System.out.printf("Area of a circle: %.5f", result);
     }
 }
