@@ -1,8 +1,8 @@
-package week2;
+package week1.beecrowd;
 
 import java.util.Scanner;
 
-public class beecroed20 {
+public class beecrowd20 {
     
     public static void main(String[] args) {
 

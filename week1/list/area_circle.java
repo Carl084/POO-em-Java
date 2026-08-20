@@ -1,4 +1,4 @@
-package day1.List;
+package week1.list;
 
 public class area_circle {
 

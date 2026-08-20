@@ -1,4 +1,4 @@
-package day1.List;
+package week1.list;
 
 public class even_odd {
     public static void main(String[] args) {

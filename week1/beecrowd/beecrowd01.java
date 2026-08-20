@@ -1,4 +1,7 @@
+package week1.beecrowd;
+
 import java.util.Scanner;
+
 public class beecrowd01 {
     public static void main(String[] args) {
 
