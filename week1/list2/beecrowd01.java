@@ -1,4 +1,4 @@
-package week1.beecrowd;
+package week1.list2;
 
 import java.util.Scanner;
 
