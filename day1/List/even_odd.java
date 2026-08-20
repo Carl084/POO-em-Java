@@ -1,3 +1,5 @@
+package day1.List;
+
 public class even_odd {
     public static void main(String[] args) {
         int entry = Integer.parseInt(args[0]);

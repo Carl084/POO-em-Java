@@ -1,3 +1,5 @@
+package day1.List;
+
 import java.util.Scanner;
 
 public class largest_three_numbers {

@@ -1,7 +1,5 @@
 import java.util.Scanner;
-
 public class beecrowd01 {
-    
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
@@ -11,7 +9,7 @@ public class beecrowd01 {
 
         int X = (A + B);
 
-        System.out.printf("X = %d%n",X);
+        System.out.printf("SOMA = %d%n",X);
 
         scanner.close();
     }
