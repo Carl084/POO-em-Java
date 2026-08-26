@@ -1,8 +1,8 @@
-package week1.list2;
+package beecrowd;
 
 import java.util.Scanner;
 
-public class beecrowd01 {
+public class extremamenteBasico {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
