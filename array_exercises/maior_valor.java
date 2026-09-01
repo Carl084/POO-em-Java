@@ -1,4 +1,4 @@
-package arrays_exercicios;
+package array_exercises;
 
 public class maior_valor {
     public static void main(String[] args) {

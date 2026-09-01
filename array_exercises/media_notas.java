@@ -1,4 +1,4 @@
-package arrays_exercicios;
+package array_exercises;
 
 public class media_notas {
     public static void main(String[] args) {
