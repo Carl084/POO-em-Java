@@ -8,11 +8,24 @@ public class Retangulo {
 
     // construtor
     public Retangulo(double b, double h) {
-        this.b = b;
-        this.h = h;
+        setBase(b);
+        serAltura(h);
+    }
+    
+    // setters
+    public void setBase(double b) {
+        if (b > 0) {
+            this.b = b;
+        }
+    }
+    
+    public void setAltura(double h) {
+        if (h > 0) {
+            this.h = h;
+        }
     }
 
-    // getter
+    // getters
     public double getBase() {
         return b;
     }
@@ -21,8 +34,18 @@ public class Retangulo {
         return h;
     }
 
-    // metodo
+    // metodos
     public double calcArea() {
         return b*h;
+    }
+
+    public double calcDiagonal() {
+        return Math.aqrt((b*b)+(h*h));
+    }
+
+    // apresentação
+    @override
+    public String toString() {
+        return "Retangulo(base="+b+", altura="+h+")";
     }
 }
